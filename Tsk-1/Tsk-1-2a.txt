@@ -1,0 +1,21 @@
+Path:
+
+As stated in the QAP, 'path' is one of the Node.js core, so there is no need to install any packages
+to use it. the path module gives you access to the path object which can be used to do some cool things 
+related to file paths and directories. This includes mostly simple methods such as 'dirname' which will
+return the directory name of a path, or 'extname' which returns the file extention of a path, such as '.js'
+or '.java'.
+
+OS:
+
+OS is also part of the Node.js core, the OS module unsurprisingly relates to the operating system. Some things
+you can do with OS is use methods such as 'arch' which will return the system architecture such as 'x64'. Another
+method you can use is 'hostname' which will return the hostname of the operating system. Of course just as
+with 'path', there are many more methods available to use.
+
+HTTP:
+
+'HTTP' just as 'OS' and 'Path' is part of Node.js core. The 'HTTP' module is used to create HTTP servers,
+make HTTP requests, handle requests, and interact with HTTP protocol. This makes 'HTTP' quite an important
+module. Two methods you could use are 'createServer' which is very self explainatory, and 'request'
+ which basically makes a client request to a specific URL.

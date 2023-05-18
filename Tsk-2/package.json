@@ -1,0 +1,11 @@
+{
+  "name": "tsk-2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Tsk-2-pt-1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
